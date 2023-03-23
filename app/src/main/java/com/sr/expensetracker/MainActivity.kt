@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     // change name of repository test
+                    Text(text = "OUECH")
                 }
             }
         }
