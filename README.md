@@ -1,1 +1,1 @@
-# EpenseTracker
+# Expense Tracker App
